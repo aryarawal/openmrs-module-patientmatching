@@ -1,7 +1,7 @@
-openmrs-module-patientmatching
+OpenMRS-module-patientmatching
 ==============================
 
-Patient matching is a specific application, in which we try to identify records that belong to the same patient among different data sources. These sources can range from patient data collected at different hospitals to external information from governmental institutions, such as death master file etc.
+Patient matching is a specific application in which we try to identify records that belong to the same patient among different data sources. These sources can range from patient data collected at different hospitals, to external information from governmental institutions, such as death master file etc.
 
 What The Module Does
 ====================
